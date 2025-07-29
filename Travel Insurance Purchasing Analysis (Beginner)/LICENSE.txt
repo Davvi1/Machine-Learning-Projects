@@ -1,0 +1,19 @@
+Custom License for Educational Use
+
+Copyright (c) 2025 David Moth
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software for any purpose, including commercial
+and non-commercial use, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+2. This Software MAY NOT be used, in whole or in part, by any current student of Turing College for any educational assignment, submission, or exercise, to prevent academic dishonesty or plagiarism.
+
+3. The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+Violation of these terms may result in legal consequences under applicable academic integrity or copyright laws.
+
+David Moth
+Github: Davvi1
